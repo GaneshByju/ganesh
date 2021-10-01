@@ -177,6 +177,7 @@ section .title::after{
 .home{
     display: flex;
     /* background: url(images/banner_1.jpeg) no-repeat center; */
+    background-image: url(images/IMG_20210928_172319_749.webp);
     height: 100vh;
     color: #fff;
     min-height: 500px;
