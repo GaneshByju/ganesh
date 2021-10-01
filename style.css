@@ -195,18 +195,18 @@ section .title::after{
 }
 .home .home-content .text-1{
     font-size: 27px;
-    color: black;
+    color: lightslategray;
 }
 .home .home-content .text-2{
     font-size: 75px;
     font-weight: 600;
     margin-left:white;
-    color: black;
+    color: lightslategray;
 }
 .home .home-content .text-3{
     font-size: 40px;
     margin: 5px 0;
-    color:black ;
+    color:lightslategray ;
 }
 .home .home-content .text-3 span{
     color: crimson;
