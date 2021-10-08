@@ -1,4 +1,6 @@
-### Hi there 👋
+I am Ganesh Byju 
+This is my personal website
+
 
 <!--
 **GaneshByju/ganeshbyju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
