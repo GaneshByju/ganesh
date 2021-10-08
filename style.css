@@ -176,7 +176,6 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-   /* background-image: url(/images/newimg.jpg) no-repeat center; */
     background-image: url(/images/newimg.jpg);
     height: 100vh;
     color: #fff;
